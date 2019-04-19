@@ -2,7 +2,7 @@
 
 Idea from [here](https://github.com/florinpop17/app-ideas)
 
-**Demo**: [Codesandbox](https://4l48xvy0x.codesandbox.io/)
+**Demo**: [Codesandbox](https://lrkm139qwl.codesandbox.io/)
 
 **Tier:** 1-Beginner
 
